@@ -1,5 +1,5 @@
 
-# CQRS Sample
+# CQRS With Projection
 
 Sample .Net 6 CQRS Implementation with Onion Architecture, DDD and Outbox Pattern.
 
